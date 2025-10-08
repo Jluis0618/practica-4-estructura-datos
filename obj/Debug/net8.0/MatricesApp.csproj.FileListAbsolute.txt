@@ -1,0 +1,14 @@
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\bin\Debug\net8.0\MatricesApp.exe
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\bin\Debug\net8.0\MatricesApp.deps.json
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\bin\Debug\net8.0\MatricesApp.runtimeconfig.json
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\bin\Debug\net8.0\MatricesApp.dll
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\bin\Debug\net8.0\MatricesApp.pdb
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\MatricesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\MatricesApp.AssemblyInfoInputs.cache
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\MatricesApp.AssemblyInfo.cs
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\MatricesApp.csproj.CoreCompileInputs.cache
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\MatricesApp.dll
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\refint\MatricesApp.dll
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\MatricesApp.pdb
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\MatricesApp.genruntimeconfig.cache
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica4\MatricesApp\obj\Debug\net8.0\ref\MatricesApp.dll
